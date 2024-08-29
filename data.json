@@ -1,0 +1,7 @@
+{
+    "name": "John",
+    "address": {
+        "city": "New York",
+        "state": "NY"
+    }
+}
